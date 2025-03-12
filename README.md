@@ -1,14 +1,22 @@
 # SENG8120 Modern Automated Testing 
 
-## Purpose
+## Project Description
 
-This repository houses the code we require for examples and assignments.
+This project calculates the area of a canvas and the amount of paint required based on the area and coverage per liter. It is tested using Jest and follows Test Driven Development practices.
 
 ## Repository Usage
 
-This repository will contain branches of code.
+Clone the repository
+Project Setup
+1. Clone the repository:
+   
+   git clone https://github.com/Reemap7575/test-coverage-assignment.git
 
-Please refer to your instructor's directions on how to use this repository.
+2. Navigate to the project directory
+
+   cd test-coverage-assignment
+
+
 
 ## Branch Usage
 
